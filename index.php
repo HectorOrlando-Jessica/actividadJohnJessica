@@ -10,7 +10,7 @@
        echo "Jessica= HectorOrlando-Jessica
                 John= HectorOrlando";
 
-        echo "Hector Orlando vive en OLIVA. ";
+        echo "Hector Orlando vive en OLIVA.   © copyright 2017 ";
  ?>
 
     </body>
